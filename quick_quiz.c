@@ -1,4 +1,4 @@
-/*Quick Quiz: Create a string using double quotes and print its content using a loop.*/
+/*Quick Quiz: Create a string using single quotes and print its content using a loop.*/
 #include<stdio.h>
 int main() {
     char mystring[]= {'s', 'h' , 'a', 'm' , '\0'};
